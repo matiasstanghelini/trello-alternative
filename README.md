@@ -1,7 +1,5 @@
 # Drag-and-Drop Trello Board Alternative with Vue.js
 
-[![](https://vueschool.io/storage/media/e2b63c8f05b9ddc0efca2b3fddbaf909/Build-a-Trello-Board-Illustration-02.jpg)](https://vueschool.io/courses/build-a-drag-and-drop-trello-board)
-
 This repository contains the source code for the "Build a Drag-and-Drop Trello Board with Vue.js" course.
 
 This is a functional and dynamic UI for managing tasks via a Trello-style task board. You can create new tasks and columns, drag and drop tasks to different columns, drag and drop to reorder columns, Alt (or Option) drag to clone tasks, and more!
